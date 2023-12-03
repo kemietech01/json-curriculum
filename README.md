@@ -46,4 +46,4 @@ Il est donc attendu des étudiant(e)s une certaine indulgence, rappelant que le 
 
 ### URL de vidéo de présentation du cours
 
-La vidéo est disponible [ici]https://www.youtube.com/channel/UC32eMwTMwM436Ne3YLzts8w
+La vidéo est disponible [ici](https://www.youtube.com/channel/UC32eMwTMwM436Ne3YLzts8w)

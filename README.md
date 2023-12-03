@@ -43,3 +43,7 @@ Ce cours étant gratuit et opensource, il est attendu de chaque étudiant(e) qu'
 Le formateur ayant déjà une activité profesionnelle et ne tirant aucun profit financier direct des cours, les délais de réponse sont variables mais les interventions et retours sont toujours réalisés en mobilisant au mieux les ressources disponibles.
 
 Il est donc attendu des étudiant(e)s une certaine indulgence, rappelant que le temps et l'énergie fournis de façon bénévole par le formateur ne l'engageraient en aucune façon dans une obligation de résultat vis-à-vis des étudiant(e)s.
+
+### URL de vidéo de présentation du cours
+
+La vidéo est disponible [ici]https://www.youtube.com/channel/UC32eMwTMwM436Ne3YLzts8w
